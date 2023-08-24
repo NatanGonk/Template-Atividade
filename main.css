@@ -2145,7 +2145,7 @@ html, body, div, span, applet, object,
 		margin-right: -2em;
 		opacity: 0;
 		width: 1em;
-		z-index: -1;
+		z-Index: -1;
 	}
 
 		input[type="checkbox"] + label,
@@ -2927,7 +2927,7 @@ html, body, div, span, applet, object,
 		position: fixed;
 		top: 0;
 		width: 100%;
-		z-index: 10000;
+		z-Index: 10000;
 	}
 
 		#header h1 {
@@ -3142,7 +3142,7 @@ html, body, div, span, applet, object,
 				right: 1.25em;
 				top: -0.375em;
 				width: 0.75em;
-				z-index: 0;
+				z-Index: 0;
 			}
 
 /* Banner */
@@ -3150,7 +3150,7 @@ html, body, div, span, applet, object,
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("overlay.png"), url("banner.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3572,7 +3572,7 @@ html, body, div, span, applet, object,
 				position: fixed;
 				top: 0;
 				width: 275px;
-				z-index: 10002;
+				z-Index: 10002;
 				background: #2b2b2b;
 				color: #bbb;
 			}
